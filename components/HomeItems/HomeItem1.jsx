@@ -1,6 +1,6 @@
 import React from "react";
 import { HomeText } from "../HomeText";
-import styles from "../../styles/Homeitems/HomeItem1.module.css";
+import styles from "../../styles/HomeItems/HomeItem1.module.css";
 
 
 

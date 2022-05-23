@@ -1,7 +1,7 @@
 import React from "react";
 import { HomeText } from "../HomeText";
 import { ButtonHover } from "../ButtonHover";
-import styles from "../../styles/Homeitems/HomeItem6.module.css";
+import styles from "../../styles/HomeItems/HomeItem6.module.css";
 
 export const HomeItem6 = () => {
   return (
