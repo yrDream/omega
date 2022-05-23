@@ -20,7 +20,7 @@ export const CompanyItem1 = () => {
             The members of our team own all of these skills and more. The 3d
             artists at omegarender are perfectionists, each with her/his own
             recognizable styles. We have a clear understanding of what the
-            client needs and don't stop until that need is satisfied.
+            client needs and don&apos;t stop until that need is satisfied.
           </p>
         </div>
         <div className={styles.textRow}>

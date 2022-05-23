@@ -7,7 +7,7 @@ export const ServicesItem3 = () => {
     <div className={styles.container}>
       <h2 className={styles.textHeader}>animation</h2>
       <p className={styles.text}>
-      We're not only creating complicated 3d architectural animation services  but also making it easy-to-visualize and emotionally attractive.
+      We&apos;re not only creating complicated 3d architectural animation services  but also making it easy-to-visualize and emotionally attractive.
       </p>
     </div>
   )
