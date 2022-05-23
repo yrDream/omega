@@ -1,0 +1,26 @@
+.wrapper{
+ margin: 5rem 1rem 2rem;
+ width: calc(30% - 3rem);
+}
+
+.image{
+    height: auto;
+    width: 100%;
+}
+
+.textName{
+margin: 2rem 0 0 0;
+font-weight: 800;
+font-weight: 16px;
+}
+
+.textProf{
+    margin: 0 0 1rem 0 ;
+    font-weight: 800;
+    font-weight: 16px;  
+}
+
+.text{
+    margin: 0;
+    font-weight: 200;
+}

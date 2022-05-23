@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5rem;
+    padding: 2rem;
+
+    border-top: 1px solid rgb(230, 230, 230);
+}
+
+.textWrapper{
+    padding-left: 2rem;
+}
+
+.text{
+text-transform: uppercase;
+font-weight: 800;
+margin: 0;
+font-size: 12px;
+}
+
+.link{
+text-transform: uppercase;
+text-decoration: underline;
+}
+
+.socialsWrapper{
+    display: flex;
+    align-items: center;
+}
+
+.socialsItem svg{
+    font-size: 2rem;
+    transition: .3s all ease;
+    margin-right: 0.5rem;
+}
+
+
+.socialsItem svg:hover{
+    transform: scale(1.2);
+}
+

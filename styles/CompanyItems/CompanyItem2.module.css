@@ -1,0 +1,17 @@
+.textHeader{
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.text{
+    font-weight: 200;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.wrapper{
+    padding-top: 5rem;
+    padding-left: 3rem;
+    width: 70%;
+}

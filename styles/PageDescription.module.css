@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin: 5rem 0;
+    
+}
+
+.title{
+    margin: 0;
+    width: 40%;
+    text-align: left;
+    text-transform: uppercase;
+    padding: 3rem;
+    font-weight: 600;
+    font-size: 28px;
+
+    white-space: pre-line
+}
+
+.text{
+    margin: 0;
+    width: 50%;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 28px;
+    font-weight: 200;
+    padding: 3rem;
+}

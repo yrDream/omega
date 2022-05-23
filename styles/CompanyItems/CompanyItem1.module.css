@@ -1,0 +1,26 @@
+.containerFlex{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.textRow{
+    width: 30%;
+    margin-right: 3rem;
+}
+
+.textRow:first-child{
+    padding-left: 3rem;
+}
+
+.textHeader{
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.text{
+    font-weight: 200;
+    font-size: 20px;
+    text-transform: uppercase;
+}

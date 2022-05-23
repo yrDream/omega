@@ -1,0 +1,55 @@
+.container {
+  display: flex;
+
+  justify-content: flex-end;
+}
+
+.wrapper{
+    width: 600px;
+}
+
+.linkItem{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 2rem 6rem;
+    background: #000;
+    transition: .5s ease all;
+}
+
+.linkText{
+    color: #fff;
+    text-transform: uppercase;
+    transition: .3s ease all;
+    font-weight: 600;
+    font-size: 20px;
+    width: 60%;
+}
+
+.linkText:hover{
+    color: rgb(195, 195, 195);
+    text-decoration: underline;
+}
+
+.LinkImg{
+    height: 2.5rem;
+    width: auto;
+    -webkit-animation-name: opacity;
+    animation-name: opacity;
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+
+@keyframes opacity{
+    from {
+        opacity: 0.8;
+      }
+    
+      to {
+        opacity: 0.3;
+      }
+}

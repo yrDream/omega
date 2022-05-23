@@ -1,0 +1,17 @@
+.container{
+    padding: 3rem;
+    grid-column: 1 / 2;
+    grid-row: 3 / 4 ;
+}
+
+.textHeader{
+    font-weight: 800;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.text{
+    font-weight: 200;
+    font-size: 22px;
+    text-transform: uppercase;
+}

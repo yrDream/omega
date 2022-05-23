@@ -1,0 +1,10 @@
+.container{
+    padding: 5rem 3rem 3rem;
+}
+
+.imgRow{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+

@@ -1,0 +1,11 @@
+.headerLogo{
+    font-size: 32px;
+    font-weight: 800;
+    color: #000;
+    text-transform: uppercase;
+    transition: .5s all ease;
+}
+
+.headerLogo:hover{
+    transform: scale(1.1);
+}

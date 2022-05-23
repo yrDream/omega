@@ -1,0 +1,19 @@
+.navItem {
+    font-weight: 600;
+    color: #000;
+    text-transform: uppercase;
+    text-decoration: underline;
+    transition: .1s all ease ;
+    margin-right: 2rem;
+
+}
+
+.navItem:hover{
+    color: #777777;
+}
+
+.menuWrapper{
+    display: flex;
+    align-items: center;
+}
+

@@ -1,0 +1,17 @@
+.text{
+    width: 270px;
+}
+
+.title{
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 20px;
+    margin: 0;
+}
+
+.desc{
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 20px;
+    margin: 0;
+}

@@ -1,0 +1,14 @@
+.container{
+    position: fixed;
+    top: 95%;
+    right: 50%;
+}
+
+.arrow{
+    opacity: 0.2;
+    transition: .3s all ease;
+}
+
+.arrow:hover{
+    opacity: 0.8;
+}

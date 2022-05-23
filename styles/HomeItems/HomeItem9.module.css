@@ -1,0 +1,14 @@
+.container{
+    position: relative;
+    margin: 0;
+    width: 100%;
+}
+
+.imgItem{
+    height: auto;
+    width: 100%;
+}
+
+.text{
+    padding: 1rem 0 2rem 4rem;
+}

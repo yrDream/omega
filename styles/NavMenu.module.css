@@ -1,0 +1,17 @@
+.navItem {
+    font-weight: 800;
+    color: #000;
+    text-transform: uppercase;
+    transition: .1s all ease ;
+    margin-right: 2rem;
+}
+
+.navItem:hover{
+    color: #bababa;
+}
+
+.menuWrapper{
+    display: flex;
+    align-items: center;
+}
+

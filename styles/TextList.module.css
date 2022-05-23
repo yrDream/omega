@@ -1,0 +1,45 @@
+.container{
+    padding-left: 4rem;
+    width: 40%;
+    max-height: 15rem;
+    overflow-y: auto;
+}
+
+.head2{
+    font-weight: 800;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.head3{
+    font-weight: 800;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.text{
+    font-weight: 200;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.listItem{
+    font-weight: 200;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.container::-webkit-scrollbar-track {
+    padding: 2px 0;
+    border-radius: 12px;
+    background-color: #e9e9e9;
+  }
+  
+  .container::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  .container::-webkit-scrollbar-thumb {
+    border-radius: 12px;
+    background-color: #000000;
+  }

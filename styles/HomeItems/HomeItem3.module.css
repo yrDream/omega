@@ -1,0 +1,21 @@
+.container{
+    position: relative;
+    margin: 0;
+    width: 50%;
+}
+
+.imgItem{
+    height: 100%;
+    width: 44%;
+    padding-left: 4rem;
+}
+
+.text{
+    position: absolute;
+    top: 1rem; 
+    left: 48%;
+}
+
+.button{
+    padding-top: 20px;
+}
