@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../../styles/Companyitems/CompanyItem1.module.css";
+import styles from "../../styles/CompanyItems/CompanyItem1.module.css";
 import { ContactUsBlockLink } from "../ContactUsBlockLink";
 
 export const CompanyItem1 = () => {

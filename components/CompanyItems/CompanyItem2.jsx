@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../../styles/Companyitems/CompanyItem2.module.css";
+import styles from "../../styles/CompanyItems/CompanyItem2.module.css";
 
 export const CompanyItem2 = () => {
   return (
